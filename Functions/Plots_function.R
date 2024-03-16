@@ -216,3 +216,22 @@ BGC_heatmap_plot2 <- function(data, low, high, type){
 }
 
 
+# ----- Phylogenetic tree plot ----
+
+  #---- Interactive plot of the phylogenetic tree ----
+
+getPage <- function(input = input$test ) {
+  cat("Selected option:", input, "\n")
+  switch(input,
+         "1" = tags$iframe(src = "https://itol.embl.de/itol.cgi",
+                           style = "width:100%;", frameborder = "0",
+                           id = "iframe",
+                           height = "1000px"),
+         "2" = tags$iframe(src = "https://www.onezoom.org/life.html/@biota=93302?img=best_any&anim=flight#x820,y622,w0.7403",
+                           style = "width:100%;", frameborder = "0",
+                           id = "iframe",
+                           height = "1000px"),
+         tags$span("Please select a webpage.")
+  )
+}
+

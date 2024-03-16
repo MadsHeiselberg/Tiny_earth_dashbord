@@ -70,7 +70,9 @@ sidebar <- dashboardSidebar(
       tabItem(tabName = "fylogen",
               h2("Her indsættes det fylogenetiske forhold mellem fundet bakterier"),
               fluidRow(
-                box(title = "Fylum genetic tree of all species", width=12, plotOutput(outputId = 'All_phylum', height = 500)),
+                box(title = "Fylum genetic tree of all species", width=12, 
+                    selectInput(inputId = 'test', label = "Select a webpage", choices = c("IOT" = 1, "OneZoom" = 2)),
+                uiOutput("inc")),
                 box(selectInput(inputId = 'phylum',label = "Select phylum", choices = c("All", "Phylum1","Phylum2" ))),
                 box(title = "Fylum plot (tree or heatmap(Fastani)", width = 12, 
                     plotOutput(outputId = 'phylum_plot', height = 500)),
@@ -174,6 +176,10 @@ server <- function(input, output) {
   
 
 #---- Fylogentisk data ----
+  
+  output$inc <- renderUI({
+    getPage(input = input$test)
+  })
   
   
 
