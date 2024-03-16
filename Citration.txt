@@ -1,0 +1,29 @@
+# List of websites and programs used to make the app
+
+## Librarys in R
+
+## Phylogenetic websites
+
+OneZoom
+https://www.onezoom.org/
+
+Interactive Tree Of Life (iTOL) v5: an online tool for phylogenetic tree display and annotation
+https://academic.oup.com/nar/article/49/W1/W293/6246398
+https://itol.embl.de/
+
+## Antismash
+https://antismash.secondarymetabolites.org/#!/start
+
+
+
+## Genomannotation
+
+Prokka 
+https://academic.oup.com/bioinformatics/article/30/14/2068/2390517
+
+Prodigal
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-119
+
+## Taxonomics
+GTDB-tk
+https://gtdb.ecogenomic.org/
