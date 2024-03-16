@@ -1,0 +1,225 @@
+"","Type","Assembly","Number","total","Percentage"
+"1","Annotated protein","barcode09",3413,6026,56.6379024228344
+"2","Hypothetical protein","barcode09",2517,6026,41.7690009956854
+"3","Ribosomal RNA","barcode09",19,6026,0.315300365084633
+"4","tRNA","barcode09",77,6026,1.27779621639562
+"5","Annotated protein","barcode11",3581,8174,43.8096403229753
+"6","Hypothetical protein","barcode11",4486,8174,54.8813310496697
+"7","Ribosomal RNA","barcode11",18,8174,0.220210423293369
+"8","tRNA","barcode11",89,8174,1.08881820406166
+"9","Annotated protein","barcode19",3828,9103,42.0520707459079
+"10","Hypothetical protein","barcode19",5168,9103,56.7724925848621
+"11","Ribosomal RNA","barcode19",17,9103,0.186751620344941
+"12","tRNA","barcode19",90,9103,0.988685048884983
+"13","Annotated protein","barcode20",3642,8736,41.6895604395604
+"14","Hypothetical protein","barcode20",4991,8736,57.1314102564103
+"15","Ribosomal RNA","barcode20",18,8736,0.206043956043956
+"16","tRNA","barcode20",85,8736,0.972985347985348
+"17","Annotated protein","barcode22",3540,8249,42.9142926415323
+"18","Hypothetical protein","barcode22",4602,8249,55.788580433992
+"19","Ribosomal RNA","barcode22",21,8249,0.254576312280276
+"20","tRNA","barcode22",86,8249,1.04255061219542
+"21","Annotated protein","barcode25",3490,7935,43.9823566477631
+"22","Hypothetical protein","barcode25",4333,7935,54.6061751732829
+"23","Ribosomal RNA","barcode25",21,7935,0.264650283553875
+"24","tRNA","barcode25",91,7935,1.14681789540013
+"25","Annotated protein","barcode26",3788,6927,54.6845676338964
+"26","Hypothetical protein","barcode26",3076,6927,44.4059477407247
+"27","Ribosomal RNA","barcode26",6,6927,0.086617583369424
+"28","tRNA","barcode26",57,6927,0.822867042009528
+"29","Annotated protein","barcode27",3349,5397,62.052992403187
+"30","Hypothetical protein","barcode27",1948,5397,36.0941263664999
+"31","Ribosomal RNA","barcode27",20,5397,0.370576246062627
+"32","tRNA","barcode27",80,5397,1.48230498425051
+"33","Annotated protein","barcode31",3349,7348,45.5770277626565
+"34","Hypothetical protein","barcode31",3904,7348,53.1301034295046
+"35","Ribosomal RNA","barcode31",21,7348,0.285792052259118
+"36","tRNA","barcode31",74,7348,1.00707675557975
+"37","Annotated protein","barcode32",2208,4755,46.4353312302839
+"38","Hypothetical protein","barcode32",2480,4755,52.1556256572029
+"39","Ribosomal RNA","barcode32",9,4755,0.189274447949527
+"40","tRNA","barcode32",58,4755,1.21976866456362
+"41","Annotated protein","barcode33",3868,9604,40.2748854643898
+"42","Hypothetical protein","barcode33",5654,9604,58.8713036234902
+"43","Ribosomal RNA","barcode33",4,9604,0.041649312786339
+"44","tRNA","barcode33",78,9604,0.812161599333611
+"45","Annotated protein","barcode35",3607,8644,41.7283664969921
+"46","Hypothetical protein","barcode35",4917,8644,56.8833873206849
+"47","Ribosomal RNA","barcode35",24,8644,0.2776492364646
+"48","tRNA","barcode35",96,8644,1.1105969458584
+"49","Annotated protein","barcode36",3527,7547,46.733801510534
+"50","Hypothetical protein","barcode36",3917,7547,51.9014177819001
+"51","Ribosomal RNA","barcode36",21,7547,0.278256260765867
+"52","tRNA","barcode36",82,7547,1.08652444680005
+"53","Annotated protein","barcode37",3702,9287,39.862172929902
+"54","Hypothetical protein","barcode37",5472,9287,58.9210724668892
+"55","Ribosomal RNA","barcode37",20,9287,0.215354797028104
+"56","tRNA","barcode37",93,9287,1.00139980618068
+"57","Annotated protein","barcode38",3577,8649,41.3573823563418
+"58","Hypothetical protein","barcode38",4956,8649,57.301422129726
+"59","Ribosomal RNA","barcode38",21,8649,0.242802636142907
+"60","tRNA","barcode38",95,8649,1.09839287778934
+"61","Annotated protein","barcode39",3367,8444,39.8744670772146
+"62","Hypothetical protein","barcode39",4953,8444,58.6570345807674
+"63","Ribosomal RNA","barcode39",33,8444,0.390810042633823
+"64","tRNA","barcode39",91,8444,1.07768829938418
+"65","Annotated protein","barcode40",3594,7800,46.0769230769231
+"66","Hypothetical protein","barcode40",4092,7800,52.4615384615385
+"67","Ribosomal RNA","barcode40",24,7800,0.307692307692308
+"68","tRNA","barcode40",90,7800,1.15384615384615
+"69","Annotated protein","barcode41",3697,8353,44.2595474679756
+"70","Hypothetical protein","barcode41",4540,8353,54.351729917395
+"71","Ribosomal RNA","barcode41",26,8353,0.311265413623848
+"72","tRNA","barcode41",90,8353,1.07745720100563
+"73","Annotated protein","barcode42",2107,4054,51.9733596447953
+"74","Hypothetical protein","barcode42",1875,4054,46.250616674889
+"75","Ribosomal RNA","barcode42",9,4054,0.222002960039467
+"76","tRNA","barcode42",63,4054,1.55402072027627
+"77","Annotated protein","barcode43",3858,9200,41.9347826086957
+"78","Hypothetical protein","barcode43",5239,9200,56.945652173913
+"79","Ribosomal RNA","barcode43",19,9200,0.206521739130435
+"80","tRNA","barcode43",84,9200,0.91304347826087
+"81","Annotated protein","barcode44",3554,8515,41.7381092190252
+"82","Hypothetical protein","barcode44",4823,8515,56.6412213740458
+"83","Ribosomal RNA","barcode44",33,8515,0.387551379917792
+"84","tRNA","barcode44",105,8515,1.23311802701116
+"85","Annotated protein","barcode45",3351,8059,41.5808412954461
+"86","Hypothetical protein","barcode45",4611,8059,57.2155354262315
+"87","Ribosomal RNA","barcode45",18,8059,0.223352773296935
+"88","tRNA","barcode45",79,8059,0.980270505025437
+"89","Annotated protein","barcode46",3229,4361,74.0426507681724
+"90","Hypothetical protein","barcode46",1022,4361,23.4349919743178
+"91","Ribosomal RNA","barcode46",25,4361,0.573263013070397
+"92","tRNA","barcode46",85,4361,1.94909424443935
+"93","Annotated protein","barcode47",3629,5945,61.0428931875526
+"94","Hypothetical protein","barcode47",2226,5945,37.4432296047098
+"95","Ribosomal RNA","barcode47",19,5945,0.31959629941127
+"96","tRNA","barcode47",71,5945,1.19428090832632
+"97","Annotated protein","barcode48",3321,5608,59.2189728958631
+"98","Hypothetical protein","barcode48",2195,5608,39.1405135520685
+"99","Ribosomal RNA","barcode48",19,5608,0.338801711840228
+"100","tRNA","barcode48",73,5608,1.30171184022825
+"101","Annotated protein","barcode49",2470,3861,63.973063973064
+"102","Hypothetical protein","barcode49",1285,3861,33.2815332815333
+"103","Ribosomal RNA","barcode49",24,3861,0.621600621600622
+"104","tRNA","barcode49",82,3861,2.12380212380212
+"105","Annotated protein","barcode50",3255,5532,58.8394793926247
+"106","Hypothetical protein","barcode50",2157,5532,38.9913232104121
+"107","Ribosomal RNA","barcode50",36,5532,0.650759219088937
+"108","tRNA","barcode50",84,5532,1.51843817787419
+"109","Annotated protein","barcode51",2578,5100,50.5490196078431
+"110","Hypothetical protein","barcode51",2381,5100,46.6862745098039
+"111","Ribosomal RNA","barcode51",37,5100,0.725490196078431
+"112","tRNA","barcode51",104,5100,2.03921568627451
+"113","Annotated protein","barcode53",3328,5733,58.0498866213152
+"114","Hypothetical protein","barcode53",2306,5733,40.2232687946974
+"115","Ribosomal RNA","barcode53",22,5733,0.383743240886098
+"116","tRNA","barcode53",77,5733,1.34310134310134
+"117","Annotated protein","barcode54",3625,5944,60.985868102288
+"118","Hypothetical protein","barcode54",2229,5944,37.5
+"119","Ribosomal RNA","barcode54",19,5944,0.319650067294751
+"120","tRNA","barcode54",71,5944,1.19448183041723
+"121","Annotated protein","barcode55",1442,2224,64.8381294964029
+"122","Hypothetical protein","barcode55",701,2224,31.5197841726619
+"123","Ribosomal RNA","barcode55",19,2224,0.85431654676259
+"124","tRNA","barcode55",62,2224,2.78776978417266
+"125","Annotated protein","barcode56",2913,5480,53.1569343065693
+"126","Hypothetical protein","barcode56",2378,5480,43.3941605839416
+"127","Ribosomal RNA","barcode56",39,5480,0.711678832116788
+"128","tRNA","barcode56",150,5480,2.73722627737226
+"129","Annotated protein","barcode57",2513,4004,62.7622377622378
+"130","Hypothetical protein","barcode57",1386,4004,34.6153846153846
+"131","Ribosomal RNA","barcode57",24,4004,0.599400599400599
+"132","tRNA","barcode57",81,4004,2.02297702297702
+"133","Annotated protein","barcode58",3051,5210,58.5604606525912
+"134","Hypothetical protein","barcode58",2039,5210,39.1362763915547
+"135","Ribosomal RNA","barcode58",35,5210,0.671785028790787
+"136","tRNA","barcode58",85,5210,1.63147792706334
+"137","Annotated protein","barcode59",2470,3862,63.9564992232004
+"138","Hypothetical protein","barcode59",1286,3862,33.2988089073019
+"139","Ribosomal RNA","barcode59",24,3862,0.62143966856551
+"140","tRNA","barcode59",82,3862,2.12325220093216
+"141","Annotated protein","barcode60",2961,5222,56.7024128686327
+"142","Hypothetical protein","barcode60",2146,5222,41.0953657602451
+"143","Ribosomal RNA","barcode60",30,5222,0.574492531597089
+"144","tRNA","barcode60",85,5222,1.62772883952509
+"145","Annotated protein","barcode61",3335,5965,55.9094719195306
+"146","Hypothetical protein","barcode61",2518,5965,42.2129086336966
+"147","Ribosomal RNA","barcode61",36,5965,0.603520536462699
+"148","tRNA","barcode61",76,5965,1.27409891031014
+"149","Annotated protein","barcode62",3238,5527,58.585127555636
+"150","Hypothetical protein","barcode62",2196,5527,39.7322236294554
+"151","Ribosomal RNA","barcode62",22,5527,0.398045956214945
+"152","tRNA","barcode62",71,5527,1.28460285869369
+"153","Annotated protein","barcode65",3581,8869,40.3765926260007
+"154","Hypothetical protein","barcode65",5202,8869,58.6537377381892
+"155","Ribosomal RNA","barcode65",6,8869,0.0676513699402413
+"156","tRNA","barcode65",80,8869,0.902018265869884
+"157","Annotated protein","barcode66",3097,7392,41.896645021645
+"158","Hypothetical protein","barcode66",4208,7392,56.9264069264069
+"159","Ribosomal RNA","barcode66",4,7392,0.0541125541125541
+"160","tRNA","barcode66",83,7392,1.1228354978355
+"161","Annotated protein","barcode70",3513,8504,41.3099717779868
+"162","Hypothetical protein","barcode70",4895,8504,57.5611476952023
+"163","Ribosomal RNA","barcode70",20,8504,0.235183443085607
+"164","tRNA","barcode70",76,8504,0.893697083725306
+"165","Annotated protein","barcode72",3993,8925,44.7394957983193
+"166","Hypothetical protein","barcode72",4834,8925,54.1624649859944
+"167","Ribosomal RNA","barcode72",22,8925,0.246498599439776
+"168","tRNA","barcode72",76,8925,0.851540616246499
+"169","Annotated protein","barcode79",4534,9937,45.6274529536077
+"170","Hypothetical protein","barcode79",5301,9937,53.3460803059273
+"171","Ribosomal RNA","barcode79",18,9937,0.181141189493811
+"172","tRNA","barcode79",84,9937,0.845325550971118
+"173","Annotated protein","barcode80",3202,7642,41.9000261711594
+"174","Hypothetical protein","barcode80",4354,7642,56.9746139753991
+"175","Ribosomal RNA","barcode80",5,7642,0.0654278984559016
+"176","tRNA","barcode80",81,7642,1.05993195498561
+"177","Annotated protein","barcode82",3461,8838,39.1604435392623
+"178","Hypothetical protein","barcode82",5284,8838,59.7872821905409
+"179","Ribosomal RNA","barcode82",5,8838,0.0565738854944558
+"180","tRNA","barcode82",88,8838,0.995700384702421
+"181","Annotated protein","barcode83",3047,7214,42.2373163293596
+"182","Hypothetical protein","barcode83",4062,7214,56.3071804823953
+"183","Ribosomal RNA","barcode83",23,7214,0.318824507901303
+"184","tRNA","barcode83",82,7214,1.13667868034378
+"185","Annotated protein","barcode84",3375,7878,42.8408225437928
+"186","Hypothetical protein","barcode84",4366,7878,55.4201574003554
+"187","Ribosomal RNA","barcode84",31,7878,0.393500888550394
+"188","tRNA","barcode84",106,7878,1.34551916730135
+"189","Annotated protein","barcode85",4777,11506,41.5174691465322
+"190","Hypothetical protein","barcode85",6625,11506,57.5786546149835
+"191","Ribosomal RNA","barcode85",6,11506,0.0521467060664001
+"192","tRNA","barcode85",98,11506,0.851729532417869
+"193","Annotated protein","barcode86",3334,7869,42.3687889185411
+"194","Hypothetical protein","barcode86",4441,7869,56.4366501461431
+"195","Ribosomal RNA","barcode86",13,7869,0.165205235735163
+"196","tRNA","barcode86",81,7869,1.02935569958063
+"197","Annotated protein","barcode87",3296,7858,41.9445151438025
+"198","Hypothetical protein","barcode87",4446,7858,56.5792822601171
+"199","Ribosomal RNA","barcode87",27,7858,0.343598880122168
+"200","tRNA","barcode87",89,7858,1.13260371595826
+"201","Annotated protein","barcode88",2911,5472,53.1980994152047
+"202","Hypothetical protein","barcode88",2420,5472,44.2251461988304
+"203","Ribosomal RNA","barcode88",34,5472,0.621345029239766
+"204","tRNA","barcode88",107,5472,1.95540935672515
+"205","Annotated protein","barcode89",3858,9153,42.1501147164864
+"206","Hypothetical protein","barcode89",5192,9153,56.7245711788485
+"207","Ribosomal RNA","barcode89",17,9153,0.185731454168032
+"208","tRNA","barcode89",86,9153,0.939582650497105
+"209","Annotated protein","barcode90",4019,8721,46.0841646600161
+"210","Hypothetical protein","barcode90",4630,8721,53.0902419447311
+"211","Ribosomal RNA","barcode90",11,8721,0.126132324274739
+"212","tRNA","barcode90",61,8721,0.699461070978099
+"213","Annotated protein","barcode92",3444,8333,41.3296531861274
+"214","Hypothetical protein","barcode92",4778,8333,57.3382935317413
+"215","Ribosomal RNA","barcode92",27,8333,0.324012960518421
+"216","tRNA","barcode92",84,8333,1.00804032161286
+"217","Annotated protein","barcode93",1606,3128,51.3427109974425
+"218","Hypothetical protein","barcode93",1460,3128,46.6751918158568
+"219","Ribosomal RNA","barcode93",9,3128,0.28772378516624
+"220","tRNA","barcode93",53,3128,1.69437340153453
+"221","Annotated protein","barcode95",1648,3377,48.8007106899615
+"222","Hypothetical protein","barcode95",1668,3377,49.3929523245484
+"223","Ribosomal RNA","barcode95",8,3377,0.236896653834765
+"224","tRNA","barcode95",53,3377,1.56944033165532
