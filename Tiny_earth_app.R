@@ -18,8 +18,8 @@ library(plotly)
 library(patchwork)
 
 #Function load
-source("Data_import_and_cleaning.R")
-source("Plots_function.R")
+source("Functions/Data_import_and_cleaning.R")
+source("Functions/Plots_function.R")
 
 #UI setup
 
